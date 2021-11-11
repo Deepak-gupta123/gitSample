@@ -6,6 +6,7 @@ public class firstClass {
 		
 		
 		System.out.println("My First Class");
+		System.out.println("My First Class but second line");
 
 	}
 
